@@ -5,7 +5,7 @@
 - Working as a QA Analyst at [@GRV Software](https://grvsoftware.com.br/) 💻
 - Undergraduating in Information Technology Management at [@Fatec Campinas](https://fateccampinas.com.br/site/) 👨‍💻
 - English Intermediate Level 🌎
-- Knowledge of Agile relayed on SCRUM ⚙
+- Knowledge of Jira relayed on SCRUM ⚙
 
 <hr>
 
