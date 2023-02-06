@@ -6,7 +6,6 @@
 - Undergraduating in Information Technology Management at [@Fatec Campinas](https://fateccampinas.com.br/site/) 👨‍💻
 - English Intermediate Level 🌎
 - Knowledge of Agile relayed on SCRUM ⚙
-- Ability to work creatively 🧠
 
 <hr>
 
