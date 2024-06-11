@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-v%C3%ADctor-santos-campos-2b3232202/)](https://www.linkedin.com/in/jo%C3%A3o-v%C3%ADctor-santos-campos-2b3232202/) 
 
-- Working as a QA Analyst at [@GRV Software](https://grvsoftware.com.br/) 💻
+- Working as a QA Analyst at [@Areco](https://grvsoftware.com.br/) 💻
 - Undergraduating in Information Technology Management at [@Fatec Campinas](https://fateccampinas.com.br/site/) 👨‍💻
 - English Intermediate Level 🌎
 - Knowledge of Jira relayed on SCRUM ⚙
