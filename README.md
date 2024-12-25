@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-v%C3%ADctor-santos-campos-2b3232202/)](https://www.linkedin.com/in/jo%C3%A3o-v%C3%ADctor-santos-campos-2b3232202/) 
 
 - Working as a QA Analyst at [@Areco](https://grvsoftware.com.br/) 💻
-- Undergraduating in Information Technology Management at [@Fatec Campinas](https://fateccampinas.com.br/site/) 👨‍💻
+- Undergraduating in Systems Analysis and Development at [@Unimetrocamp Wyden](https://www.wyden.com.br/unidades/unimetrocamp) 👨‍💻
 - English Intermediate Level 🌎
 - Knowledge of Jira relayed on SCRUM ⚙
 
